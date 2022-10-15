@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZoneDeForage", "ZoneDeForage\ZoneDeForage.csproj", "{CB1FAE48-C212-4300-AA65-8B5BBFA46ED1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB1FAE48-C212-4300-AA65-8B5BBFA46ED1}.Debug|x64.ActiveCfg = Debug|x64
+		{CB1FAE48-C212-4300-AA65-8B5BBFA46ED1}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {490FB2D8-E003-45AA-B2C7-A7A946C48B09}
+	EndGlobalSection
+EndGlobal

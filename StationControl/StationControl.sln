@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StationControl", "StationControl\StationControl.csproj", "{64E8D7D5-FFAA-4099-9BA9-A96288C5A4E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64E8D7D5-FFAA-4099-9BA9-A96288C5A4E3}.Debug|x64.ActiveCfg = Debug|x64
+		{64E8D7D5-FFAA-4099-9BA9-A96288C5A4E3}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AAB8C13-CB32-447B-9F02-1AA0C90B6E80}
+	EndGlobalSection
+EndGlobal
